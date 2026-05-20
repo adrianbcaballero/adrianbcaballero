@@ -6,7 +6,7 @@ I love surfing, reading, and writing.
 #
   
 **[AegleroEMR](https://github.com/adrianbcaballero/AegleroEMR)**  
-A multi-tenant EMR built end-to-end for residential addiction and behavioral health programs. Companion marketing site at [aeglero.com](https://www.aeglero.com/).  
+A multi-tenant EMR built end-to-end for residential addiction and behavioral health programs. Companion marketing site at aeglero.com  
 **[Private AI Infrastructure](https://github.com/adrianbcaballero/private-ai-infrastructure)**  
 Self-hosted, security-hardened AI inference environment built from scratch.  
 **[CAHIMS Anki Deck](https://github.com/adrianbcaballero/cahims-anki)**  
@@ -20,4 +20,4 @@ Spaced-repetition deck for the CAHIMS exam, built and refined while I prepped fo
 **Networking & Hardening** — VLAN segmentation, stateful firewalling (UFW/iptables), WireGuard VPN, Pi-hole, Fail2ban, SNMP monitoring (LibreNMS)  
 **Languages & Frameworks** — Python (Flask, SQLAlchemy), Java, TypeScript (Next.js, React), SQL, Bash  
 #
-⚖ [linkedin](https://www.linkedin.com/in/abcaballero/)
+⚖ [Linkedin](https://www.linkedin.com/in/abcaballero/)
