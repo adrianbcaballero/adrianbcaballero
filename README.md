@@ -1,7 +1,7 @@
-# Hello
+# Hello!
 
-I build and operate healthcare technology with a focus on cybersecurity and GRC.  
-I love biking, reading, and writing.
+I build and operate technology that empowers others with a focus on cybersecurity and GRC.  
+I love swimming, reading, and writing.
 
 #
   
